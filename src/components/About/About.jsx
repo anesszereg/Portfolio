@@ -28,17 +28,17 @@ function About() {
                         <article className='about-card'>
                         <FcSalesPerformance className='about-icon'/>
                           <h5>Experience</h5>
-                          <small> 1 Years working </small>
+                          <small> + 1 Years working </small>
                         </article>
                         <article className='about-card'>
                           <FcVoicePresentation className='about-icon'/>
                         <h5>Client</h5>
-                          <small> 0 </small>
+                          <small> + 10 </small>
                         </article>
                         <article className='about-card'>
                           <FcOpenedFolder className='about-icon'/>
                         <h5>Projects</h5>
-                          <small> 20+ Completed  </small>
+                          <small> + 20 Completed  </small>
                         </article>
                     </div>
 

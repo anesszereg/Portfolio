@@ -20,7 +20,7 @@ function contact() {
     // console.log(., '❤❤');
 
 
-    emailjs.sendForm("service_yyltsm5","template_84yn2yg", form.current,"user_t2mB2dDub0bT4XNfL")
+    emailjs.sendForm("service_yyltsm5","template_84yn2yg", form.current,"t2mB2dDub0bT4XNfL")
       .then((result) => {
           console.log(result.text , 'message sent successfully');
       }, (error) => {
